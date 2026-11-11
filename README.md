@@ -36,7 +36,6 @@
 ## 🌨️ GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=komilovichdev&show_icons=true&hide_border=true&bg_color=0b1629&title_color=7dd3fc&text_color=e6f1ff&icon_color=bfe3ff&ring_color=7dd3fc" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=komilovichdev&hide_border=true&background=0b1629&ring=7dd3fc&fire=bfe3ff&currStreakLabel=7dd3fc&sideLabels=e6f1ff&currStreakNum=ffffff&sideNums=ffffff&dates=9fb8d6&stroke=1d3a66" alt="GitHub streak" />
 </div>
 
