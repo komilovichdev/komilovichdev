@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%" role="img" aria-label="Thanks for visiting">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1629"/><stop offset="1" stop-color="#1d3a66"/></linearGradient>
+<clipPath id="card"><rect width="1200" height="110" rx="18"/></clipPath>
+<style>
+.f{animation:fall linear infinite}
+@keyframes fall{0%{transform:translate(0,0)}100%{transform:translate(var(--d),126px)}}
+.t{font:600 18px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#e6f1ff;letter-spacing:2px}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="110" fill="url(#sky)"/>
+<path d="M0 86 Q200 70 400 84 T800 82 T1200 78 L1200 110 L0 110Z" fill="#f4faff"/>
+<text class="t" x="600" y="52" text-anchor="middle">❄  Thanks for stopping by — stay warm  ❄</text>
+<circle class="f" cx="284" cy="-8" r="2.3" fill="#fff" opacity="0.89" style="--d:17px;animation-duration:7.3s;animation-delay:-9.5s"/>
+<circle class="f" cx="764" cy="-8" r="2.0" fill="#fff" opacity="0.52" style="--d:16px;animation-duration:5.9s;animation-delay:-8.7s"/>
+<circle class="f" cx="653" cy="-8" r="2.7" fill="#fff" opacity="0.81" style="--d:25px;animation-duration:6.0s;animation-delay:-3.9s"/>
+<circle class="f" cx="336" cy="-8" r="1.8" fill="#fff" opacity="0.77" style="--d:-16px;animation-duration:7.5s;animation-delay:-5.1s"/>
+<circle class="f" cx="437" cy="-8" r="2.4" fill="#fff" opacity="0.85" style="--d:25px;animation-duration:10.3s;animation-delay:-10.8s"/>
+<circle class="f" cx="127" cy="-8" r="2.2" fill="#fff" opacity="0.62" style="--d:-19px;animation-duration:6.1s;animation-delay:-4.3s"/>
+<circle class="f" cx="215" cy="-8" r="2.5" fill="#fff" opacity="0.80" style="--d:-30px;animation-duration:7.5s;animation-delay:-8.3s"/>
+<circle class="f" cx="329" cy="-8" r="2.2" fill="#fff" opacity="0.90" style="--d:-21px;animation-duration:6.7s;animation-delay:-7.2s"/>
+<circle class="f" cx="225" cy="-8" r="2.4" fill="#fff" opacity="0.82" style="--d:15px;animation-duration:5.3s;animation-delay:-8.7s"/>
+<circle class="f" cx="500" cy="-8" r="2.9" fill="#fff" opacity="0.64" style="--d:-20px;animation-duration:10.7s;animation-delay:-4.6s"/>
+<circle class="f" cx="124" cy="-8" r="2.3" fill="#fff" opacity="0.57" style="--d:26px;animation-duration:7.7s;animation-delay:-2.7s"/>
+<circle class="f" cx="557" cy="-8" r="2.2" fill="#fff" opacity="0.75" style="--d:-22px;animation-duration:9.8s;animation-delay:-4.6s"/>
+<circle class="f" cx="452" cy="-8" r="1.8" fill="#fff" opacity="0.62" style="--d:7px;animation-duration:7.1s;animation-delay:-9.4s"/>
+<circle class="f" cx="1102" cy="-8" r="2.0" fill="#fff" opacity="0.57" style="--d:14px;animation-duration:9.7s;animation-delay:-3.4s"/>
+<circle class="f" cx="241" cy="-8" r="2.1" fill="#fff" opacity="0.71" style="--d:19px;animation-duration:10.9s;animation-delay:-6.9s"/>
+<circle class="f" cx="69" cy="-8" r="1.3" fill="#fff" opacity="0.76" style="--d:-29px;animation-duration:7.8s;animation-delay:-10.1s"/>
+<circle class="f" cx="1106" cy="-8" r="3.0" fill="#fff" opacity="0.56" style="--d:-3px;animation-duration:8.6s;animation-delay:-3.5s"/>
+<circle class="f" cx="988" cy="-8" r="2.8" fill="#fff" opacity="0.68" style="--d:-11px;animation-duration:10.6s;animation-delay:-7.8s"/>
+<circle class="f" cx="830" cy="-8" r="2.3" fill="#fff" opacity="0.76" style="--d:-29px;animation-duration:8.4s;animation-delay:-6.7s"/>
+<circle class="f" cx="406" cy="-8" r="2.8" fill="#fff" opacity="0.56" style="--d:19px;animation-duration:7.3s;animation-delay:-0.4s"/>
+<circle class="f" cx="594" cy="-8" r="2.6" fill="#fff" opacity="0.75" style="--d:23px;animation-duration:6.9s;animation-delay:-1.5s"/>
+<circle class="f" cx="403" cy="-8" r="1.4" fill="#fff" opacity="0.52" style="--d:-27px;animation-duration:10.7s;animation-delay:-10.0s"/>
+<circle class="f" cx="1075" cy="-8" r="3.1" fill="#fff" opacity="0.54" style="--d:24px;animation-duration:9.1s;animation-delay:-9.6s"/>
+<circle class="f" cx="1134" cy="-8" r="1.2" fill="#fff" opacity="0.80" style="--d:-11px;animation-duration:7.1s;animation-delay:-4.3s"/>
+<circle class="f" cx="139" cy="-8" r="2.4" fill="#fff" opacity="0.73" style="--d:-20px;animation-duration:7.4s;animation-delay:-4.5s"/>
+<circle class="f" cx="704" cy="-8" r="2.6" fill="#fff" opacity="0.78" style="--d:-14px;animation-duration:9.7s;animation-delay:-9.6s"/>
+<circle class="f" cx="373" cy="-8" r="3.1" fill="#fff" opacity="0.56" style="--d:-25px;animation-duration:7.0s;animation-delay:-1.8s"/>
+<circle class="f" cx="1157" cy="-8" r="2.8" fill="#fff" opacity="0.71" style="--d:20px;animation-duration:8.3s;animation-delay:-9.2s"/>
+<circle class="f" cx="166" cy="-8" r="1.6" fill="#fff" opacity="0.84" style="--d:5px;animation-duration:10.9s;animation-delay:-7.6s"/>
+<circle class="f" cx="450" cy="-8" r="2.0" fill="#fff" opacity="0.81" style="--d:19px;animation-duration:9.9s;animation-delay:-8.8s"/>
+<circle class="f" cx="1199" cy="-8" r="2.5" fill="#fff" opacity="0.52" style="--d:5px;animation-duration:10.4s;animation-delay:-4.4s"/>
+<circle class="f" cx="1002" cy="-8" r="2.6" fill="#fff" opacity="0.71" style="--d:20px;animation-duration:6.7s;animation-delay:-6.5s"/>
+<circle class="f" cx="648" cy="-8" r="1.9" fill="#fff" opacity="0.77" style="--d:-15px;animation-duration:9.8s;animation-delay:-5.3s"/>
+<circle class="f" cx="888" cy="-8" r="2.0" fill="#fff" opacity="0.67" style="--d:9px;animation-duration:8.9s;animation-delay:-2.4s"/>
+<circle class="f" cx="347" cy="-8" r="2.3" fill="#fff" opacity="0.90" style="--d:-30px;animation-duration:7.3s;animation-delay:-10.0s"/>
+<circle class="f" cx="77" cy="-8" r="1.6" fill="#fff" opacity="0.67" style="--d:19px;animation-duration:6.9s;animation-delay:-9.5s"/>
+<circle class="f" cx="641" cy="-8" r="1.7" fill="#fff" opacity="0.81" style="--d:16px;animation-duration:8.9s;animation-delay:-7.4s"/>
+<circle class="f" cx="385" cy="-8" r="1.7" fill="#fff" opacity="0.78" style="--d:-5px;animation-duration:8.5s;animation-delay:-8.2s"/>
+<circle class="f" cx="950" cy="-8" r="2.1" fill="#fff" opacity="0.83" style="--d:18px;animation-duration:9.3s;animation-delay:-7.6s"/>
+<circle class="f" cx="912" cy="-8" r="2.2" fill="#fff" opacity="0.58" style="--d:-21px;animation-duration:6.1s;animation-delay:-1.2s"/>
+</g>
+</svg>
